@@ -30,3 +30,7 @@ a {
 .inline {
     display: inline;
 }
+
+.selecao-numero {
+    display: inline-block;
+}
